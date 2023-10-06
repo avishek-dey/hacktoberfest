@@ -1,3 +1,9 @@
+#### Name: [Avishek Dey](https://github.com/avishek-dey)
+
+- Place: Asansol, West Bengal, India
+- Bio: UI/UX Designer | GRaphic Designer | Frontend Developer
+- GitHub: [avishek-dey](https://github.com/avishek-dey)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
